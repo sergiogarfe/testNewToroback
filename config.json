@@ -1,0 +1,95 @@
+{
+  "users": [
+    "56cc2c33a2802b584dc229f3"
+  ],
+  "status": 1,
+  "serverOptions": {
+    "allowOrigin": [
+      "http://www.toroback.com",
+      "http://toroback.com"
+    ],
+    "a2sVersion": "0",
+    "git": null,
+    "port": 4535,
+    "secret_key": "1g6pjgRrpSnnVcTEGQSBfUrjc",
+    "host": "http://a2s.a2system.net"
+  },
+  "gitOptions": {
+    "ssh": {
+      "sshPublicKey": {
+        "id": null,
+        "cert": null,
+        "name": null
+      },
+      "sshPrivateKey": {
+        "id": null,
+        "cert": null,
+        "name": null
+      },
+      "password": null
+    },
+    "https": {
+      "accessToken": null
+    }
+  },
+  "storageOptions": {
+    "gcloud": {
+      "projectId": null,
+      "keyFile": {
+        "cert": null,
+        "name": null
+      }
+    }
+  },
+  "dbOptions": {
+    "pass": "9QdB1zIo",
+    "user": "577d27eae416a25a56d8a8a4_testNewToroback",
+    "host": "mongodb://localhost/577d27eae416a25a56d8a8a4_testNewToroback",
+    "name": "577d27eae416a25a56d8a8a4_testNewToroback"
+  },
+  "socialOptions": {
+    "fb": {
+      "secretKey": null,
+      "clientId": null
+    }
+  },
+  "pushOptions": {
+    "ios": null,
+    "gcm": {
+      "apikey": null,
+      "url": null
+    }
+  },
+  "mqttOptions": {
+    "options": {
+      "protocolVersion": null,
+      "protocolId": null
+    },
+    "port": null,
+    "host": null
+  },
+  "redisOptions": {
+    "prefix": null,
+    "port": null,
+    "host": null
+  },
+  "_id": "577d27eae416a25a56d8a8a4",
+  "sessionOptions": {
+    "name": "577d27eae416a25a56d8a8a4_testNewToroback"
+  },
+  "app_key": "NECzXdwYiTAfoiI",
+  "creator": "56cc2c33a2802b584dc229f3",
+  "name": "testNewToroback",
+  "__v": 0,
+  "path": "/opt/a2server/desa/install/apps/56cc2c33a2802b584dc229f3/577d27eae416a25a56d8a8a4/",
+  "aclOptions": {
+    "enableAcl": true,
+    "noAcl": {
+      "users": {
+        "login": true,
+        "confirm": true,
+        "newDocument": true
+      }
+    }
+  }
+}
